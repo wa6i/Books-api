@@ -3,7 +3,7 @@
 1. Clone the repository:
 
 ```bash
-git clone [<repository-url>](https://github.com/wa6i/Books-api.git)
+git clone https://github.com/wa6i/Books-api.git
 cd book-API
 ```
 
